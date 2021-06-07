@@ -1,0 +1,128 @@
+[
+ {
+    "id": "1",
+    "name":"Bench Press",
+    "muscle": "chest",
+    "information":"The Bench Press will mainly focus on your pectoralis major but will also incorporate the anterior deltoids and triceps"
+ },
+ {
+    "id": "2",
+    "name":"Dumbbell Curl",
+    "muscle": "bicep",
+    "information":"Curl the dumbbell"
+ },
+ {
+    "id": "3",
+    "name":"Barbell Shoulder Press",
+    "muscle": "shoulder",
+    "information":"x"
+ },
+ {
+    "id": "4",
+    "name":"Barbell Rows",
+    "muscle": "back",
+    "information":"x"
+ },
+ {
+    "id": "5",
+    "name":"Pulldowns",
+    "muscle": "back",
+    "information":"x"
+ },
+ {
+    "id": "6",
+    "name":"Rows",
+    "muscle": "back",
+    "information":"x"
+ },
+ {
+    "id": "7",
+    "name":"Hammer Curl",
+    "muscle": "bicep",
+    "information":"x"
+ },
+ {
+    "id": "8",
+    "name":"Incline Dumbbell Press",
+    "muscle": "chest",
+    "information":""
+ },
+ {
+    "id":"9",
+    "name":"Triceps Pushdowns",
+    "muscle": "tricep",
+    "information":"x"
+ },
+ {
+    "id":"10",
+    "name":"Overhead Tricep Extends",
+    "muscle": "tricep",
+    "information":"x"
+ },
+ {
+    "id":"11",
+    "name":"Preacher Curls",
+    "muscle": "bicep",
+    "information":"x"
+ },
+ {
+    "id":"12",
+    "name":"Skull Crushers",
+    "muscle": "tricep",
+    "information":"x"
+ },
+ {
+    "id":"13",
+    "name":"Side Lateral Raises",
+    "muscle": "shoulder",
+    "information":"x"
+ },
+ {
+    "id":"14",
+    "name":"Squat",
+    "muscle": "leg",
+    "information":"x"
+ },
+ {
+    "id":"15",
+    "name":"Deadlift",
+    "muscle": "leg",
+    "information":"x"
+ },
+ {
+    "id":"16",
+    "name":"Leg Press",
+    "muscle": "leg",
+    "information":"x"
+ },
+ {
+    "id":"17",
+    "name":"Leg Curls",
+    "muscle": "leg",
+    "information":"x"
+ },
+ {
+    "id":"18",
+    "name":"Leg Extensions",
+    "muscle": "leg",
+    "information":"x"
+ },
+ {
+    "id":"19",
+    "name":"Calf Raises",
+    "muscle": "leg",
+    "information":"x"
+ },
+ {
+    "id":"20",
+    "name":"Cable Cross",
+    "muscle": "chest",
+    "information":"x"
+ },
+ {
+    "id":"21",
+    "name":"Shrug",
+    "muscle": "shoulder",
+    "information":"x"
+ }
+]
